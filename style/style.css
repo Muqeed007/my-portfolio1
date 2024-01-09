@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+img{
+    width: 100vh ;
+    position: sticky;
+    background-position: center;
+    background-size: cover;
+}
